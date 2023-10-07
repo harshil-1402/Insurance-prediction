@@ -41,8 +41,8 @@ pip install numpy pandas scikit-learn
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/insurance-cost-prediction.git
-cd insurance-cost-prediction
+git clone [https://github.com/yourusername/insurance-cost-prediction.git
+cd insurance-cost-prediction](https://github.com/harshil-1402/Insurance-prediction)
 ```
 
 2. Run the Jupyter Notebook or Python script to train and evaluate the models.
